@@ -2,7 +2,7 @@
 ### I'm Liudmila and I am:
 
 - ✨ a fullstack developer based in **Stockholm, Sweden**
-- 🌱 currently working on my master's in **Information Systems**
+- 🌱 currently working on my master's in **Information Systems** @ LNU
   
 ### My toolbox:
 <p>

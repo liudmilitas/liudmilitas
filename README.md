@@ -1,4 +1,4 @@
-# Hello there! 👋
+# Hello!
 ### I'm Liudmila and I am:
 
 - ✨ a fullstack developer based in **Stockholm, Sweden**

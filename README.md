@@ -45,6 +45,7 @@
 <p>
   CMS:
   <img alt="WordPress" src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img alt="Tina CMS" src="https://img.shields.io/badge/Tina_CMS-black?style=flat-square&logo=tinacms&logoColor=white" />
 </p>
 
 
